@@ -1,0 +1,171 @@
+body {
+    background-color: #FFFFFF;
+    color: #393E46;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    text-align: center;
+    line-height: 2;
+
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    width: 30%;
+    margin: 0px auto;
+    color: #7c4600;
+    font-size: 5rem;
+
+}
+
+h2 {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 100px auto;
+    color: #cf7500;
+}
+
+h3 {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: normal;
+    margin: 10px auto;
+}
+
+p {
+    margin: 0px auto;
+}
+
+a {
+    color: #7c4600;
+    text-decoration: none;
+    margin: 0 50px;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+hr {
+    border: dotted #eaccae 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 5%;
+    
+}
+.intro {
+    color: #393E46;
+    font-weight: bold;
+}
+.container-one {
+   margin-bottom: 50px;
+   padding: 35px 0;
+   background-color: #ffca86;
+   width: 100%;
+}
+
+
+.cat-one {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    right: 30%;
+
+    
+}
+
+.cat-two {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 30%;
+
+    
+}
+
+.container-two {
+    margin: 0 auto;
+    padding: 50px 0;
+    width: 40%;
+}
+
+.hello {
+    color: #cf7500;
+    font-weight: normal;
+    font-size: 2.5rem;
+    margin: 50px auto;
+} 
+
+.skill-row {
+    margin: 100px auto 150px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.internet {
+    float: left;
+    margin-right: 40px;
+    width: 25%;
+}
+
+.iphone {
+    float: right;
+    margin-left: 40px;
+    width: 25%;
+}
+
+
+.container-four {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.footer {
+    background-color: #CF7500;
+    margin: 0px auto;
+    padding: 40px 0;
+    width: 100%;
+
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 0.75rem;
+    margin: 30px auto 0;
+}
+
+.btn {
+    background: #FFCA96;
+    background-image: -webkit-linear-gradient(top, #FFCA96, #CF7500);
+    background-image: -moz-linear-gradient(top, #FFCA96, #CF7500);
+    background-image: -ms-linear-gradient(top, #FFCA96, #CF7500);
+    background-image: -o-linear-gradient(top, #FFCA96, #CF7500);
+    background-image: linear-gradient(to bottom, #FFCA96, #CF7500);
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    color: #FFFFFF;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin: 50px auto;
+    padding: 8px 30px;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+    
+.btn:hover {
+    border: solid #FFFFFF 0px;
+    background: #CF7500;
+    background-image: -webkit-linear-gradient(top, #CF7500, #FFCA96);
+    background-image: -moz-linear-gradient(top, #CF7500, #FFCA96);
+    background-image: -ms-linear-gradient(top, #CF7500, #FFCA96);
+    background-image: -o-linear-gradient(top, #CF7500, #FFCA96);
+    background-image: linear-gradient(to bottom, #CF7500, #FFCA96);
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    text-decoration: none;
+}
